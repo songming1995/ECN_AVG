@@ -1,2 +1,2 @@
-# ECN_AVG
-ECN Advanced Visual Geometry Project
+Visual Odometry lab at ECN
+Homography plane detection and Augmented Reality display
