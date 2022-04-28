@@ -1,2 +1,2 @@
-Visual Odometry lab at ECN
-Homography plane detection and Augmented Reality display
+Homography-based Visual Odometry Project at ECN
+Homography Plane Detection and Augmented Reality Display
